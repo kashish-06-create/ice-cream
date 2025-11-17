@@ -1,0 +1,58 @@
+.cart-items {
+  display: grid;
+  grid-template-columns: repeat(2, 200px); /* 2 cards per row */
+  gap: 20px;
+  justify-content: center; /* center align the grid */
+  margin-top: 20px;
+  
+}
+
+.cart-items {
+  display: grid;
+  grid-template-columns: repeat(2, 200px); /* 2 cards per row */
+  gap: 20px;
+  justify-content: center; /* Horizontal center */
+  align-items: center; /* Vertical alignment (if needed) */
+  margin: 0 auto; /* Center the whole grid in container */
+  padding: 20px 0;
+}
+
+
+.card-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.card-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.card-item h3 {
+  font-size: 18px;
+  color: #e91e63;
+  margin-bottom: 5px;
+}
+
+.card-item p {
+  font-size: 15px;
+  font-weight: bold;
+  color: #ff6600;
+}
+.card-wrapper {
+  display: flex;
+  flex-direction: column; /* Title & price on top, cards below */
+  align-items: center;
+  margin-top: 50px;    /* Center everything horizontally */
+}
+
+.cart-items {
+  display: grid;
+  grid-template-columns: repeat(2, 200px); /* 2 cards per row */
+  gap: 20px;
+  justify-content: center; 
+  margin-top: 20px;
+}
+

@@ -1,0 +1,99 @@
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  padding-top: 80px; /* Prevent content from going under the fixed header */
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: #ffb6c1; /* Light pink */
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  color: #d63384;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar-toggler {
+  display: none;
+  background-color: transparent;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+/* Navigation links */
+.navbar-nav {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.1rem;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-link:hover {
+  background-color: #d63384;
+  color: white;
+}
+
+.nav-link.active {
+  background-color: #ff69b4;
+  color: white;
+}
+.butten{
+  margin-left: 610px;
+}
+
+/* Responsive menu for mobile */
+@media (max-width: 768px) {
+  .navbar {
+    flex-wrap: wrap;
+  }
+
+  .navbar-toggler {
+    display: block;
+  }
+
+  .collapse {
+    display: none;
+    width: 100%;
+  }
+
+  .collapse.show {
+    display: block;
+    margin-top: 10px;
+  }
+
+  .navbar-nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

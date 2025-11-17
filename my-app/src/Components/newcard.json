@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pistachio",
+    "image": "https://example.com/pistachio.jpg",
+    "link": "/pistachio",
+    "quantity": 2
+  },
+  {
+    "name": "Strawberry",
+    "image": "https://example.com/strawberry.jpg",
+    "link": "/strawberry",
+    "quantity": 1
+  }
+]

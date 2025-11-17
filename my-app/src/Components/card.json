@@ -1,0 +1,151 @@
+{
+  "flavorData": [
+    {
+      "id": 0,
+      "name": "Pistachio",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/pistachio",
+      "price": 120
+    },
+    {
+      "id": 1,
+      "name": "Strawberry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzqho0CVEvflBK-6ems-YbOOXQUzWCvXDZA&s",
+      "link": "/strawberry",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Chocolate",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Chocolate",
+      "price": 110
+    },
+    {
+      "id": 4,
+      "name": "Blueberry",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Blueberry",
+      "price": 130
+    },
+    {
+      "id": 5,
+      "name": "Vanilla",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTw-9zG6xFziblZYQGQJJiX17CgBWmbq3LqA&s",
+      "link": "/vanilla",
+      "price": 90
+    },
+    {
+      "id": 6,
+      "name": "Mango",
+      "image": "https://hungryinthailand.com/wp-content/uploads/2025/02/asian-mango-ice-cream.webp",
+      "link": "/Mango",
+      "price": 100
+    },
+    {
+      "id": 7,
+      "name": "Butterscotch",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-INC8Uxem8uE4TAKRkFweuiW_FEwCUnLqaA&s",
+      "link": "/Butterscotch",
+      "price": 105
+    },
+    {
+      "id": 8,
+      "name": "Kulfi",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4dSRKgL0IDBG7Rsfu3dpd6kGy5O--iW_Qg&s",
+      "link": "/kulfi",
+      "price": 115
+    },
+    {
+      "id": 9,
+      "name": "Raspberry Ripple",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/RaspberryRipple",
+      "price": 125
+    },
+    {
+      "id": 10,
+      "name": "Peach",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Peach",
+      "price": 120
+    },
+    {
+      "id": 11,
+      "name": "Pan Masala",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/PanMasala",
+      "price": 135
+    },
+    {
+      "id": 12,
+      "name": "Mint Chocolate Chip",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/MintChocolateChip",
+      "price": 110
+    },
+    {
+      "id": 13,
+      "name": "Lychee",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Lychee",
+      "price": 130
+    },
+    {
+      "id": 14,
+      "name": "Fig and Honey",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/FigandHoney",
+      "price": 140
+    },
+    {
+      "id": 15,
+      "name": "Cookies and Cream",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/CookiesandCream",
+      "price": 115
+    },
+    {
+      "id": 16,
+      "name": "Coffee",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Coffee",
+      "price": 110
+    },
+    {
+      "id": 17,
+      "name": "Caramel",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Caramel",
+      "price": 115
+    },
+    {
+      "id": 18,
+      "name": "Black Currant",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/BlackCurrant",
+      "price": 125
+    },
+    {
+      "id": 19,
+      "name": "Banana",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/Banana",
+      "price": 100
+    },
+    {
+      "id": 20,
+      "name": "Almond Fudge",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/AlmondFudge",
+      "price": 140
+    },
+    {
+      "id": 21,
+      "name": "Tender Coconut",
+      "image": "https://assets.epicurious.com/photos/5935b2c4f692c10ac01affe6/1:1/w_775%2Cc_limit/Weekend-Warrior-Tin-Roof-Ice-Cream-002.jpg",
+      "link": "/TenderCoconut",
+      "price": 135
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+.vanilla-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #fdf9f4;
+  color: #3a2e2e;
+  line-height: 1.7;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.vanilla-image {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 30px auto;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.vanilla-description,
+.vanilla-funfact,
+.vanilla-pairings {
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: #fff6e8;
+  border-left: 5px solid #f4c430;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  color: #b8860b;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.vanilla-footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

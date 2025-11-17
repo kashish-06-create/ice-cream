@@ -1,0 +1,56 @@
+*.pistachio-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f0fff0;
+  color: #2e4b2e;
+  line-height: 1.7;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.pistachio-image {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 30px auto;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.pistachio-description,
+.pistachio-funfact,
+.pistachio-pairings {
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: #e6ffe6;
+  border-left: 5px solid #66cc66;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  color: #339966;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.pistachio-footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
